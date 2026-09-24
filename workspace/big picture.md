@@ -64,7 +64,8 @@ Target: 20% proficiency — cloud platforms, services, and infrastructure concep
 
 | Resource | Link |
 |---|---|
-| Cloud Fundamentals | |
+| Azure Cloud Fundamentals | [Watch](https://youtu.be/-pX5PjIYTJs?si=ol5W09fH7qTR1BZC) |
+| AWS Cloud Fundamentals | [Watch](https://youtu.be/233EHZn0JHo?si=jLa_RJlZxbAi9Lzf) |
 
 ---
 
