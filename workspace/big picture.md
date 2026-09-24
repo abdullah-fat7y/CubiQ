@@ -17,8 +17,8 @@ Resources in this section apply across all branches: general engineering practic
 | Resource | Link |
 |---|---|
 | Git & GitHub | https://youtu.be/Q6G-J54vgKc?si=zyeKzcuwfDrshX1Y |
-| Docker | |
-| SQL | |
+| Docker | https://youtu.be/nAHx_uSBfTg?si=d4U-Nj6b0194OyCN |
+| SQL | https://youtu.be/NTgejLheGeU?si=ez3DwKfZ4unDzYsx |
 
 ---
 
