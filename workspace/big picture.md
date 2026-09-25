@@ -54,7 +54,7 @@ Target: 20% proficiency — server-side architecture, APIs, databases, and appli
 
 | Resource | Link |
 |---|---|
-| Backend Development Fundamentals | |
+| Backend Development Fundamentals | [Watch Playlist](https://www.youtube.com/watch?v=EKlVQjPxmkw&list=PL1XCkbTn1Mi3qf21HQqfpHXrjrmkCu5mY) |
 
 ---
 
