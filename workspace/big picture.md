@@ -77,7 +77,7 @@ Target: 20% proficiency — CI/CD, automation, monitoring, and deployment practi
 
 | Resource | Link |
 |---|---|
-| DevOps Fundamentals | |
+| DevOps Fundamentals | [link](https://youtu.be/H5FAxTBuNM8?si=cF18o4y6Cw--NTjf) |
 
 ---
 
