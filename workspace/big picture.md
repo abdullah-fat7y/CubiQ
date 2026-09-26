@@ -40,11 +40,13 @@ Target: 20% proficiency — web fundamentals, responsive layouts, interactive in
 
 ## Mobile App
 
-Target: 20% proficiency — native and cross-platform development concepts, and mobile-specific design considerations.
+**Target:** 20% proficiency — native and cross-platform development concepts, and mobile-specific design considerations.
 
-| Resource | Link |
-|---|---|
-| Mobile App Development Fundamentals | |
+| Resource                                   | Link                                                                                   |
+| ------------------------------------------ | -------------------------------------------------------------------------------------- |
+| What's Flutter                             | [Watch here](https://www.youtube.com/watch?v=I9ceqw5Ny-4)                              |
+| Dart & Flutter Fundamentals (Crash Course) | [Watch here](https://www.youtube.com/watch?v=HQ_ytw58tC4)                              |
+| Handling REST APIs                         | [Watch here](https://www.youtube.com/playlist?list=PL2Wzn4NPx5dnJORLEwWBCriFkf5USEahj) |
 
 ---
 
