@@ -87,10 +87,7 @@ Target: 20% proficiency — connected devices, embedded systems, and IoT protoco
 
 | Resource | Link |
 |---|---|
-| IOT Fundamentals |
-https://youtube.com/playlist?list=PL0V8DyGggpXp0BBEv8u294c5IK7cp_eOf&si=NtlNmmqY_dq7ztDo|
-
----
+| IOT Fundamentals |https://youtube.com/playlist?list=PL0V8DyGggpXp0BBEv8u294c5IK7cp_eOf&si=NtlNmmqY_dq7ztDo |
 
 ## AI
 
