@@ -31,7 +31,6 @@ Target: 20% proficiency — web fundamentals, responsive layouts, interactive in
 | Frontend Topics | [Watch](https://youtu.be/WG5ikvJ2TKA?si=QBYyn8auSReaXEFH) |
 | HTML | [Watch](https://youtu.be/916GWv2Qs08?si=Vbeu8EXII4CFvuD7) |
 | CSS | [Watch](https://youtu.be/ieTHC78giGQ?si=Wyh7kT8V1q_K0WOI) |
-| Bootstrap | [Watch](https://youtu.be/Jyvffr3aCp0?si=rADYGVtwI8GoeHaJ) |
 | JavaScript | [Watch](https://youtu.be/NKY0Fx68OlE?si=cY3wrjF7Uhr0fyIV) |
 | React Intro | [Video 1](https://youtu.be/V1PxgjIhTw0?si=OeXvtC0CVnp8IwVe) · [Video 2](https://youtu.be/s2skans2dP4?si=mxQaSt4xh9UayYMV) |
 | React Crash Course | [Watch](https://youtu.be/fJSFus0pxZI?si=uaTDpfFqS6ig1PTS) |
