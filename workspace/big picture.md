@@ -96,6 +96,7 @@ Target: 20% proficiency — machine learning concepts, model development, and ap
 |---|---|
 | Introduction to Supervised and Unsupervised Machine Learning (~20 mins) | [Video 1: Supervised](https://www.youtube.com/watch?v=zAPmUlBX-Qg) · [Video 2: Unsupervised](https://www.youtube.com/watch?v=-OEgiMH5aok) |
 | Brief History of Neural Networks (~3 mins) | [Watch](https://www.youtube.com/watch?v=2nIoXBvQKhs) |
+| Types of Neural Networks and When to Use Each Type (~8 mins) | [Watch](https://www.youtube.com/watch?v=cwdpMgKqzKE) |
 | Large Language Models Explained Briefly (~8 mins) | [Watch](https://www.youtube.com/watch?v=LPZh9BOjkQs) |
 | Important Distinction Between Data Scientists and AI Engineers (~10 mins) | [Watch](https://www.youtube.com/watch?v=Vxw0nE1qfZc) |
 | **── Practical section ──** | **──────────** |
