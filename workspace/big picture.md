@@ -94,7 +94,16 @@ Target: 20% proficiency — machine learning concepts, model development, and ap
 
 | Resource | Link |
 |---|---|
-| AI Fundamentals | |
+| Introduction to Supervised and Unsupervised Machine Learning (~20 mins) | [Video 1: Supervised](https://www.youtube.com/watch?v=zAPmUlBX-Qg) · [Video 2: Unsupervised](https://www.youtube.com/watch?v=-OEgiMH5aok) |
+| Brief History of Neural Networks (~3 mins) | [Watch](https://www.youtube.com/watch?v=2nIoXBvQKhs) |
+| Large Language Models Explained Briefly (~8 mins) | [Watch](https://www.youtube.com/watch?v=LPZh9BOjkQs) |
+| Important Distinction Between Data Scientists and AI Engineers (~10 mins) | [Watch](https://www.youtube.com/watch?v=Vxw0nE1qfZc) |
+| **── Practical section ──** | **──────────** |
+| Machine Learning for Everybody – Full Course (~4 hours) | [Watch](https://www.youtube.com/watch?v=i_LwzRVP7bg) |
+| Know the Difference Between TensorFlow, PyTorch, Keras, and Scikit-learn (~2 mins) | [Watch](https://www.youtube.com/watch?v=dVL5XipNqgc) |
+| Get Started with the Gemini API Using Python (~12 mins) | [Watch](https://www.youtube.com/watch?v=qfWpPEgea2A) |
+| **── Interactive playground ──** | **──────────** |
+| Experiment with Neural Networks in Your Browser | [Explore](https://playground.tensorflow.org/)<br> |
 
 ---
 
